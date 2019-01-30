@@ -37,11 +37,11 @@ To run the finding_donors.ipynb notebook file, the following files are required:
 
 In a terminal or command window, navigate to the top-level project directory finding_donors/ and run one of the following commands to run the notebook:
 
-'''ipython notebook finding_donors.ipynb'''
+```ipython notebook finding_donors.ipynb```
 
 or
 
-'''jupyter notebook finding_donors.ipynb'''
+```jupyter notebook finding_donors.ipynb```
 
 
 
