@@ -9,16 +9,16 @@ Further details regarding the project and files used can be found at: https://gi
 
 This project uses Python 3.6.3 and the following installed Python libraries:
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Matplotlib
+- Matplotlib
 
-Scikit-learn
+- Scikit-learn
 
 
-To view finding_donors.ipynb, one will need iPython Notebook installed.
+To view finding_donors.ipynb notebook file, one will need iPython Notebook installed as well.
 
 ### Code
 
@@ -27,21 +27,21 @@ Code for this project is provided in the finding_donors.ipynb notebook file and 
 
 ### Run
 
-To run the notebook, the following files are required:
+To run the finding_donors.ipynb notebook file, the following files are required:
 
-finding_donors.ipynb
+- finding_donors.ipynb
 
-visuals.py: code to implement visualizations in the notebook
+- visuals.py: code to implement visualizations in the notebook
 
-census.csv: dataset
+- census.csv: dataset
 
 In a terminal or command window, navigate to the top-level project directory finding_donors/ and run one of the following commands to run the notebook:
 
-ipython notebook finding_donors.ipynb
+'''ipython notebook finding_donors.ipynb'''
 
 or
 
-jupyter notebook finding_donors.ipynb
+'''jupyter notebook finding_donors.ipynb'''
 
 
 
