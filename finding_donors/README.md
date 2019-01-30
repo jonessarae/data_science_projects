@@ -1,5 +1,10 @@
 ## Project: Finding Donors for CharityML
 
+### Goal 
+CharityML is a fictitious charity organization interested in expanding their potential donor base. CharityML would like to send letters to residents of California who are most likely to donate to the charity. The goal of this project is to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent. 
+
+Further details regarding the project and files used can be found at: https://github.com/udacity/DSND_Term1/tree/master/projects/p1_charityml
+
 ### Install
 
 This project uses Python 3.6.3 and the following installed Python libraries:
@@ -16,9 +21,8 @@ Scikit-learn
 To view finding_donors.ipynb, one will need iPython Notebook installed.
 
 ### Code
-Code for this project is provided in the finding_donors.ipynb notebook file.
-Another file, visuals.py, can be found at 
-        DSND_Term1/projects/p1_charityml/visuals.py
+
+Code for this project is provided in the finding_donors.ipynb notebook file and report.html.
       
 
 ### Run
@@ -27,9 +31,9 @@ To run the notebook, the following files are required:
 
 finding_donors.ipynb
 
-visuals.py
+visuals.py: code to implement visualizations in the notebook
 
-census.csv
+census.csv: dataset
 
 In a terminal or command window, navigate to the top-level project directory finding_donors/ and run one of the following commands to run the notebook:
 
@@ -40,5 +44,4 @@ or
 jupyter notebook finding_donors.ipynb
 
 
-Data
-The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find this paper online, with the original dataset hosted on UCI.
+
