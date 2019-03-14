@@ -34,6 +34,8 @@ The application for part 2 includes two files, predict.py and train.py.
 
 Make sure you have the data available on your computer.
 
+#### Train
+
 To train a new network with train.py, run the following in the terminal:
 ```
 python train.py <data_directory DIR> --epochs <INT> --arch <STRING> --learning_rate <FLOAT> --hidden_units <LIST OF INT> --save_dir <DIR> --gpu
@@ -44,6 +46,8 @@ Train a network with gpu enabled on data in flowers directory with a vgg19 archi
 python train.py flowers --arch vgg19 --epochs 10 --hidden_units 1000 500 --learning_rate 0.003 --save_dir checkpoints --gpu
 ```
 It is highly recommended that you enable gpu for training the model. 
+
+#### Predict
 
 To predict the class of an image with a trained network with predict.py, run the following in the terminal:
 ```
