@@ -15,13 +15,10 @@ All libraries and versions can be found in image_classifier_report.html.
 
 ### Files
 
-predict.py - application to predict class of the flower in the image from checkpoint file
-
-train.py -  application to train a new network on dataset and save checkpoint
-
-image_classifier_project.ipynb - jupyter notebook for part 1
-
-image_classifier_report.html - html version of jupyter notebook
+* predict.py - application to predict class of the flower in the image from checkpoint file
+* train.py -  application to train a new network on dataset and save checkpoint
+* image_classifier_project.ipynb - jupyter notebook for part 1
+* image_classifier_report.html - html version of jupyter notebook
 
 Not included is the actual dataset divided into train, test, and valid folders. 
 
