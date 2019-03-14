@@ -15,10 +15,8 @@ All libraries and versions can be found in image_classifier_report.html.
 
 ### Files
 
-cat_to_name.json - maps the integer encoded categories to the actual names of the flowers
 predict.py - application to predict class of the flower in the image from checkpoint file
 train.py -  application to train a new network on dataset and save checkpoint
-checkpoint5_densenet121.pth - example of checkpoint file
 image_classifier_project.ipynb - jupyter notebook for part 1
 image_classifier_report.html - html version of jupyter notebook
 
