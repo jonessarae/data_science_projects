@@ -26,6 +26,9 @@ Not included is the actual dataset divided into train, test, and valid folders.
 ### Code
 
 Code for Part 1 of this project is provided in image_classifier_project.ipynb and image_classifier_report.html.
+To view image_classifier_report.html use the following link:
+
+http://htmlpreview.github.io/?https://github.com/jonessarae/data_science_projects/blob/master/image_classifier/image_classifier_report.html
 
 Code for Part 2 of this project is provided in predict.py and train.py.     
 - - - -
