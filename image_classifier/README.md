@@ -6,13 +6,14 @@
 The goal of this project is to train an image classifier on the flower dataset from http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html to recognize different species of flowers (102 categories).
 In this project, the first part is developing code for an image classifier built with PyTorch, then converting it into a command line application in the second part.
 
+Markup :  - - - -
 
 ### Software
 
 This project uses Python 3.6.3 and Pytorch, a Python-based deep learning research platform. 
 
 All libraries and versions can be found in image_classifier_report.html. 
-
+Markup :  - - - -
 ### Files
 
 * predict.py - application to predict class of the flower in the image from checkpoint file
@@ -21,13 +22,13 @@ All libraries and versions can be found in image_classifier_report.html.
 * image_classifier_report.html - html version of jupyter notebook
 
 Not included is the actual dataset divided into train, test, and valid folders. 
-
+Markup :  - - - -
 ### Code
 
 Code for Part 1 of this project is provided in image_classifier_project.ipynb and image_classifier_report.html.
 
 Code for Part 2 of this project is provided in predict.py and train.py.     
-
+Markup :  - - - -
 ### Run
 
 The application for part 2 includes two files, predict.py and train.py. 
@@ -57,6 +58,7 @@ Example (using cpu):
 ```
 python predict.py flowers/test/10/image_07090.jpg checkpoint5_densenet121.pth --category_names cat_to_name.json --top_k 7
 ```
+Markup :  - - - -
 ### References
 
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
