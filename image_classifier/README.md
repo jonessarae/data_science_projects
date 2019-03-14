@@ -28,11 +28,13 @@ Not included is the actual dataset divided into train, test, and valid folders.
 ### Code
 
 Code for Part 1 of this project is provided in image_classifier_project.ipynb and image_classifier_report.html.
+
 Code for Part 2 of this project is provided in predict.py and train.py.     
 
 ### Run
 
 The application for part 2 includes two files, predict.py and train.py. 
+
 Make sure you have the data available on your computer.
 
 To train a new network with train.py, run the following in the terminal:
