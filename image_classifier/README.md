@@ -56,5 +56,7 @@ python predict.py flowers/test/10/image_07090.jpg checkpoint5_densenet121.pth --
 ### References
 
 https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+
 https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
+
 https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html
