@@ -12,19 +12,19 @@ those clusters to see which of them comprise the main user base for the company.
 
 ### Software
 
-This project uses Python 3.6.3 and Pytorch, a Python-based deep learning research platform. 
+This project uses Python 3.6.3.
 
-All libraries and versions can be found in image_classifier_report.html. 
+All libraries and versions can be found in identify_customer_segments_report.html. 
 - - - -
 ### Files
 
-* predict.py - application to predict class of the flower in the image from checkpoint file
-* train.py -  application to train a new network on dataset and save checkpoint
+* identify_customer_segments.ipynb - jupyter notebook 
+* identify_customer_segments_report.html -  html version of jupyter notebook
 - - - -
 ### Analysis
 
-Analysis for this project is provided in image_classifier_project.ipynb and image_classifier_report.html.
+Analysis for this project is provided in image_classifier_project.ipynb and identify_customer_segments_report.html.
 To view image_classifier_report.html use the following link:
 
-http://htmlpreview.github.io/?https://github.com/jonessarae/data_science_projects/blob/master/image_classifier/image_classifier_report.html
+http://htmlpreview.github.io/?https://github.com/jonessarae/data_science_projects/blob/master/identify_customer_segments/identify_customer_segments_report.html
 
