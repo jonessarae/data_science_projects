@@ -14,7 +14,7 @@ those clusters to see which of them comprise the main user base for the company.
 
 This project uses Python 3.6.3.
 
-All libraries and versions can be found in identify_customer_segments_report.html. 
+All libraries and versions can be found in Identify_Customer_Segments.html. 
 - - - -
 ### Files
 
