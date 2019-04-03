@@ -18,13 +18,13 @@ All libraries and versions can be found in identify_customer_segments_report.htm
 - - - -
 ### Files
 
-* identify_customer_segments.ipynb - jupyter notebook 
-* identify_customer_segments_report.html -  html version of jupyter notebook
+* Identify_Customer_Segments.ipynb - jupyter notebook 
+* Identify_Customer_Segments.html -  html version of jupyter notebook
 - - - -
 ### Analysis
 
 Analysis for this project is provided in image_classifier_project.ipynb and identify_customer_segments_report.html.
 To view image_classifier_report.html use the following link:
 
-http://htmlpreview.github.io/?https://github.com/jonessarae/data_science_projects/blob/master/identify_customer_segments/identify_customer_segments_report.html
+http://htmlpreview.github.io/?https://github.com/jonessarae/data_science_projects/blob/master/identify_customer_segments/Identify_Customer_Segments.html
 
