@@ -1,6 +1,6 @@
 # Projects from Udacity Data Science Nanodegree
 
-## Project 1: Finding Donors for CharityML - Completed 
+## Project 1: Finding Donors for CharityML - Completed 4/5/2019
 
 All files for this project are in finding_donors.
 
