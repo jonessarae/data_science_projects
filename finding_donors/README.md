@@ -3,45 +3,26 @@
 ### Goal 
 CharityML is a fictitious charity organization interested in expanding their potential donor base. CharityML would like to send letters to residents of California who are most likely to donate to the charity. The goal of this project is to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent. 
 
-Further details regarding the project and files used can be found at: https://github.com/udacity/DSND_Term1/tree/master/projects/p1_charityml
+- - - -
 
-### Install
+### Software
 
-This project uses Python 3.6.3 and the following installed Python libraries:
+This project uses Python 3.6.3.
 
-- NumPy
+All libraries and versions can be found in finding_donors.html. 
+- - - -
+### Files
 
-- Pandas
+* finding_donors.ipynb - jupyter notebook 
+* finding_donors.html -  html version of jupyter notebook
+- - - -
+### Analysis
 
-- Matplotlib
+Analysis for this project is provided in finding_donors.ipynb and finding_donors.html.
+To view finding_donors.html use the following link:
 
-- Scikit-learn
+http://htmlpreview.github.io/?https://github.com/jonessarae/data_science_projects/blob/master/finding_donors/finding_donors.html
 
-
-To view finding_donors.ipynb notebook file, one will need iPython Notebook installed as well.
-
-### Code
-
-Code for this project is provided in the finding_donors.ipynb notebook file and report.html.
-      
-
-### Run
-
-To run the finding_donors.ipynb notebook file, the following files are required:
-
-- finding_donors.ipynb
-
-- visuals.py: code to implement visualizations in the notebook
-
-- census.csv: dataset
-
-In a terminal or command window, navigate to the top-level project directory finding_donors/ and run one of the following commands to run the notebook:
-
-```ipython notebook finding_donors.ipynb```
-
-or
-
-```jupyter notebook finding_donors.ipynb```
 
 
 
