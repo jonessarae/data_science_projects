@@ -23,8 +23,8 @@ All libraries and versions can be found in Identify_Customer_Segments.html.
 - - - -
 ### Analysis
 
-Analysis for this project is provided in image_classifier_project.ipynb and identify_customer_segments_report.html.
-To view image_classifier_report.html use the following link:
+Analysis for this project is provided in Identify_Customer_Segments.ipynb and Identify_Customer_Segments.html.
+To view Identify_Customer_Segments.html use the following link:
 
 http://htmlpreview.github.io/?https://github.com/jonessarae/data_science_projects/blob/master/identify_customer_segments/Identify_Customer_Segments.html
 
