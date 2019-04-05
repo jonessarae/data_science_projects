@@ -16,7 +16,7 @@ All libraries and versions can be found in finding_donors.html.
 * finding_donors.ipynb - jupyter notebook 
 * finding_donors.html -  html version of jupyter notebook
 * census.csv - dataset
-* visuals.py - Udacity's 
+* visuals.py - visualization helper functions (provided by Udacity) 
 - - - -
 ### Analysis
 
